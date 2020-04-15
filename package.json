@@ -1,5 +1,5 @@
 {
-  "name": "HelloWorld",
+  "name": "helloworld",
   "version": "1.0.0",
   "description": "An example HelloWorld HTTP Server.",
   "main": "index.js",
