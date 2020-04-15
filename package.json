@@ -1,0 +1,11 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "An example HelloWorld HTTP Server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Treblue",
+  "license": "ISC"
+}
