@@ -1,7 +1,7 @@
 {
   "name": "helloworld",
   "version": "1.0.0",
-  "description": "An example HelloWorld HTTP Server.",
+  "description": "An example \"Hello World\" HTTP Server written in standard NodeJS.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
